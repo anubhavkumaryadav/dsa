@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	// your code goes here
-  // https://www.codechef.com/problems/SEATING7
+  // https://www.codechef.com/problems/SEATING7 //
 	int n;
 	cin>>n;
 	while(n){
